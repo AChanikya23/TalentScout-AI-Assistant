@@ -1,0 +1,16 @@
+[
+    {
+        "email": "a***@gmail.com",
+        "phone": "******1435",
+        "experience": "8 months",
+        "position": "AI Engineer",
+        "location": "Not Provided",
+        "tech_stack": [
+            "Python",
+            "AIML",
+            "TensorFlow",
+            "SQL"
+        ],
+        "candidate_id": "Candidate_324bd01c"
+    }
+]
