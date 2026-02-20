@@ -13,7 +13,7 @@
     ### Step-by-Step Setup
     1. **Clone the repository:**
        ```bash
-       git clone [https://github.com/YourUsername/TalentScout-AI-Assistant.git](https://github.com/YourUsername/TalentScout-AI-Assistant.git)
+       git clone https://github.com/AChanikya23/TalentScout-AI-Assistant.git
        cd TalentScout-AI-Assistant
     
 
