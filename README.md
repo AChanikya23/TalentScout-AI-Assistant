@@ -2,8 +2,9 @@
 
 ## Project Overview
 TalentScout is an intelligent, locally-hosted hiring assistant chatbot designed to streamline the initial candidate screening process for technology recruitment. The chatbot serves as the first point of contact, seamlessly gathering essential candidate details (Name, Email, Experience, Location, etc.) and dynamically generating targeted technical interview questions based strictly on the candidate's declared tech stack. It features a conversational interface, robust fallback mechanisms to handle off-topic inputs, and a simulated backend that strictly adheres to GDPR data privacy standards by anonymizing PII (Personally Identifiable Information) before storage.
-
-##Demo Link:https://www.loom.com/share/a2c8abff2160433a99fc59d3aa148261
+ 
+**Demo Link:https://www.loom.com/share/a2c8abff2160433a99fc59d3aa148261**
+ 
 ## Installation Instructions
 Follow these steps to set up and run the application locally on your machine.
 
