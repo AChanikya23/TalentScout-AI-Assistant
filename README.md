@@ -1,21 +1,20 @@
-    # 🤖 TalentScout: Intelligent Hiring Assistant
-    
-    ## Project Overview
-    TalentScout is an intelligent, locally-hosted hiring assistant chatbot designed to streamline the initial candidate screening process for technology recruitment. The chatbot serves as the first point of contact, seamlessly gathering essential candidate details (Name, Email, Experience, Location, etc.) and dynamically generating targeted technical interview questions based strictly on the candidate's declared tech stack. It features a conversational interface, robust fallback mechanisms to handle off-topic inputs, and a simulated backend that strictly adheres to GDPR data privacy standards by anonymizing PII (Personally Identifiable Information) before storage.
-    
-    ## Installation Instructions
-    Follow these steps to set up and run the application locally on your machine.
-    
-    ### Prerequisites
-    * **Python 3.9+** installed on your system.
-    * **Ollama** installed locally (Download from [ollama.com](https://ollama.com/)).
-    
-    ### Step-by-Step Setup
-    1. **Clone the repository:**
-       ```bash
-       git clone https://github.com/AChanikya23/TalentScout-AI-Assistant.git
-       cd TalentScout-AI-Assistant
-    
+# 🤖 TalentScout: Intelligent Hiring Assistant
+
+## Project Overview
+TalentScout is an intelligent, locally-hosted hiring assistant chatbot designed to streamline the initial candidate screening process for technology recruitment. The chatbot serves as the first point of contact, seamlessly gathering essential candidate details (Name, Email, Experience, Location, etc.) and dynamically generating targeted technical interview questions based strictly on the candidate's declared tech stack. It features a conversational interface, robust fallback mechanisms to handle off-topic inputs, and a simulated backend that strictly adheres to GDPR data privacy standards by anonymizing PII (Personally Identifiable Information) before storage.
+
+## Installation Instructions
+Follow these steps to set up and run the application locally on your machine.
+
+### Prerequisites
+* **Python 3.9+** installed on your system.
+* **Ollama** installed locally (Download from [ollama.com](https://ollama.com/)).
+
+### Step-by-Step Setup
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AChanikya23/TalentScout-AI-Assistant.git
+   cd TalentScout-AI-Assistant
 
 2.  **Download the local Language Model:** Ensure Ollama is running on your machine, then open your terminal and run:
      
